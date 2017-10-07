@@ -1,2 +1,2 @@
 # pylearning
-# I started learning pythong to become best py developer.
+# I started learning python to become best py developer.
